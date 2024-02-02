@@ -1,0 +1,6 @@
+server:
+  port: 8081
+liteflow:
+    rule-source: flow.el.xml
+knife4j:
+  enable: true

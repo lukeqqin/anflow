@@ -1,0 +1,10 @@
+# ide自动生成的目录或者文件
+.idea
+!**/src/main/**/target/
+!**/src/test/**/target/
+*.iml
+
+/docs/
+target
+.vscode
+*.hprof
